@@ -1,0 +1,140 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    position: relative;
+    width:375px;
+    height: 812px;
+    z-index: 1;
+    border: 1px solid rgb(211, 211, 211);
+}
+.field_dark{
+    position: absolute;
+    top: 18px;
+    left: 22px;
+    z-index: 2;
+}
+.return{
+    position: absolute;
+    margin: 0px;
+    top: 50px;
+    left: 22px;
+    z-index: 2;
+}
+.telecommunication_fee{
+    position: absolute;
+    margin: 10px;
+    top: 40px;
+    left: 140px;
+    z-index: 2;
+    font-size: 18px;
+    color: rgb(102, 102, 102);
+}
+.scan_dark{
+    position: absolute;
+    top: 45px;
+    left: 315px;
+    z-index: 2;
+}
+.please_select_a_telecom_agency{
+    position: absolute;
+    margin: 0px;
+    top: 100px;
+    left: 22px;
+    z-index: 2;
+    color: rgb(6, 151, 219);
+    font-size: 14px;
+    font-weight: bold;
+}
+.field_rectangle_1{
+    position: absolute;
+    margin: 0px;
+    top: 130px;
+    left: 22px;
+    z-index: 2;
+}
+.please_choose{
+    position: absolute;
+    margin: 0px;
+    top: 139px;
+    left: 35px;
+    z-index: 2;
+    color: rgb(164, 164, 164);
+    font-size: 12px;
+}
+.down_arrow{
+    position: absolute;
+    margin: 0px;
+    top: 142px;
+    left: 318px;
+    z-index: 2;
+}
+.telecom_number{
+    position: absolute;
+    margin: 0px;
+    top: 185px;
+    left: 22px;
+    z-index: 2;
+    color: rgb(6, 151, 219);
+    font-size: 14px;
+    font-weight: bold;
+}
+.field_rectangle_2{
+    position: absolute;
+    margin: 0px;
+    top: 215px;
+    left: 22px;
+    z-index: 2;
+}
+.please_enter_the_number{
+    position: absolute;
+    margin: 0px;
+    top: 221px;
+    left: 35px;
+    z-index: 2;
+    color: rgb(164, 164, 164);
+    font-size: 12px;
+}
+.user_id{
+    position: absolute;
+    margin: 0px;
+    top: 270px;
+    left: 22px;
+    z-index: 2;
+    color: rgb(6, 151, 219);
+    font-size: 14px;
+    font-weight: bold;
+}
+.field_rectangle_3{
+    position: absolute;
+    margin: 0px;
+    top: 300px;
+    left: 22px;
+    z-index: 2;
+}
+.id_card_or_uniform_number{
+    position: absolute;
+    margin: 0px;
+    top: 306px;
+    left: 35px;
+    z-index: 2;
+    color: rgb(164, 164, 164);
+    font-size: 12px;
+}
+.bt_gradient{
+    position: absolute;
+    margin: 0px;
+    top: 360px;
+    left: 22px;
+    z-index: 2;
+}
+.next_step{
+    position: absolute;
+    margin: 10px;
+    top: 357px;
+    left: 159px;
+    z-index: 2;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+}

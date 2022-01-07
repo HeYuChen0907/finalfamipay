@@ -1,0 +1,279 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.background{
+    position: relative;
+    width:375px;
+    height: 812px;
+    z-index: 1;
+    border: 1px solid rgb(211, 211, 211);
+}
+
+.field{
+    position: absolute;
+    top: 18px;
+    left: 22px;
+    z-index: 2;
+}
+
+.scanning{
+    position: absolute;
+    top: 45px;
+    left: 315px;
+    z-index: 2;
+}
+
+.bank{
+    position: absolute;
+    top: 180px;
+    left: 65px;
+    z-index: 3;
+}
+
+.famipay{
+    position: absolute;
+    top: 52px;
+    left: 145px;
+    z-index: 2;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.famimoney{
+    position: absolute;
+    top: 110px;
+    left: 70px;
+    z-index: 2;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+}
+.line3{
+    position: absolute;
+    top: 135px;
+    left: 35px;
+    z-index: 2;
+    color: white;
+}
+.line2{
+    position: absolute;
+    top: 135px;
+    left: 188px;
+    z-index: 2;
+    color: white;
+}
+.credit＿card{
+    position: absolute;
+    top: 111px;
+    left: 242px;
+    z-index: 2;
+    color: white;
+    font-weight: bold;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.card_folding{
+    position: absolute;
+    top: 170px;
+    left: 36.5px;
+    z-index: 2;
+}
+
+.qr-code{
+    position: absolute;
+    top: 215px;
+    left: 65px;
+    z-index: 2;
+}
+.points＿discount{
+    position: absolute;
+    top: 325px;
+    left: 225px;
+    z-index: 2;
+    font-size: 2px;
+    color: white;
+    font-weight: bold;
+}
+
+.p300{
+    position: absolute;
+    top: 390px;
+    left: 150px;
+    z-index: 2;
+}
+.p300p{
+    position: absolute;
+    top: 388px;
+    left: 172px;
+    z-index: 2;
+    color: white;
+    font-weight: bold;
+}
+.dollor{
+    position: absolute;
+    top: 388px;
+    left: 205px;
+    z-index: 2;
+    color: white;
+}
+
+.transfer_icon{
+    position: absolute;
+    top: 480px;
+    left: 40px;
+    z-index: 2;
+}
+
+.transfer{
+    position: absolute;
+    top: 540px;
+    left: 52px;
+    z-index: 2;
+    color: rgb(134, 134, 134);
+    font-size: 14px;
+}
+
+.transaction_details_icon{
+    position: absolute;
+    top: 480px;
+    left: 158px;
+    z-index: 2;
+}
+
+.transaction_details{
+    position: absolute;
+    top: 540px;
+    left: 154px;
+    z-index: 2;
+    color: rgb(134, 134, 134);
+    font-size: 14px;
+}
+
+.coupon＿icon{
+    position: absolute;
+    top: 485px;
+    left: 270px;
+    z-index: 2;
+}
+
+.coupon{
+    position: absolute;
+    top: 540px;
+    left: 275px;
+    z-index: 2;
+    color: rgb(134, 134, 134);
+    font-size: 14px;
+}
+
+.line{
+    position: absolute;
+    top: 580px;
+    left: 30px;
+    z-index: 2;
+}
+
+.card＿fee{
+    position: absolute;
+    top: 675px;
+    left: 53px;
+    z-index: 2;
+    color: rgb(134, 134, 134);
+    font-size: 14px;
+}
+
+.card＿fee__icon{
+    position: absolute;
+    top: 605px;
+    left: 40px;
+    z-index: 2;
+}
+
+.telecommunication_fee_icon{
+    position: absolute;
+    top: 605px;
+    left: 155px;
+    z-index: 2;
+}
+
+.telecommunication_fee{
+    position: absolute;
+    top: 675px;
+    left: 162px;
+    z-index: 2;
+    color: rgb(134, 134, 134);
+    font-size: 14px;
+}
+
+.parking_fee_icon{
+    position: absolute;
+    top: 607px;
+    left: 272px;
+    z-index: 2;
+}
+
+.parking_fee{
+    position: absolute;
+    top: 675px;
+    left: 280px;
+    z-index: 2;
+    color: rgb(134, 134, 134);
+    font-size: 14px;
+}
+
+.water_fee＿icon{
+    position: absolute;
+    top: 710px;
+    left: 40px;
+    z-index: 2;
+}
+
+.water_fee{
+    position: absolute;
+    top: 775px;
+    left: 53px;
+    z-index: 2;
+    color: rgb(134, 134, 134);
+    font-size: 14px;
+}
+.electricity_bill＿icon{
+    position: absolute;
+    top: 710px;
+    left: 155px;
+    z-index: 2;
+}
+
+.electricity_bill{
+    position: absolute;
+    top: 775px;
+    left: 170px;
+    z-index: 2;
+    color: rgb(134, 134, 134);
+    font-size: 14px;
+}
+
+.gas_fee＿icon{
+    position: absolute;
+    top: 710px;
+    left: 272px;
+    z-index: 2;
+}
+
+.gas_fee{
+    position: absolute;
+    top: 775px;
+    left: 280px;
+    z-index: 2;
+    color: rgb(134, 134, 134);
+    font-size: 14px;
+}
+
+.switch_open{
+    position: absolute;
+    top: 325.5px;
+    left: 280px;
+    z-index: 2;
+    color: rgb(134, 134, 134);
+}

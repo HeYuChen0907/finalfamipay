@@ -1,0 +1,134 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    position: relative;
+    width:375px;
+    height: 812px;
+    z-index: 1;
+    border: 1px solid rgb(211, 211, 211);
+}
+.field_dark{
+    position: absolute;
+    top: 18px;
+    left: 22px;
+    z-index: 2;
+}
+.return{
+    position: absolute;
+    margin: 0px;
+    top: 50px;
+    left: 22px;
+    z-index: 2;
+}
+.electricity_bill{
+    position: absolute;
+    margin: 10px;
+    top: 40px;
+    left: 140px;
+    z-index: 2;
+    font-size: 18px;
+    color: rgb(102, 102, 102);
+}
+.scan_dark{
+    position: absolute;
+    top: 45px;
+    left: 315px;
+    z-index: 2;
+}
+.enter_the_number{
+    position: absolute;
+    top: 100px;
+    left: 22px;
+    z-index: 2;
+    color: rgb(6, 151, 219);
+    font-size: 14px;
+    font-weight: bold;
+}
+.field_rectangle_middle_1{
+    position: absolute;
+    margin: 0px;
+    top: 130px;
+    left: 22px;
+    z-index: 2;
+}
+.field_rectangle_middle_2{
+    position: absolute;
+    margin: 0px;
+    top: 130px;
+    left: 80px;
+    z-index: 2;
+}
+.field_rectangle_longest{
+    position: absolute;
+    margin: 0px;
+    top: 130px;
+    left: 138px;
+    z-index: 2;
+}
+.field_rectangle_short{
+    position: absolute;
+    margin: 0px;
+    top: 130px;
+    left: 240px;
+    z-index: 2;
+}
+.field_rectangle_shortest{
+    position: absolute;
+    margin: 0px;
+    top: 175px;
+    left: 22px;
+    z-index: 2;
+}
+.binding_information{
+    position: absolute;
+    margin: 0px;
+    top: 178px;
+    left: 55px;
+    z-index: 2;
+    font-size: 12px;
+    color: rgb(164, 164, 164);
+}
+.enter_your_electricity_account_name{
+    position: absolute;
+    margin: 0px;
+    top: 218px;
+    left: 22px;
+    z-index: 2;
+    color: rgb(6, 151, 219);
+    font-size: 14px;
+    font-weight: bold;
+}
+.field_rectangle{
+    position: absolute;
+    margin: 0px;
+    top: 248px;
+    left: 22px;
+    z-index: 2;
+}
+.please_enter_your_account_name{
+    position: absolute;
+    margin: 0px;
+    top: 256px;
+    left: 35px;
+    z-index: 2;
+    font-size: 12px;
+    color: rgb(164, 164, 164);
+}
+.bt_gradient{
+    position: absolute;
+    margin: 0px;
+    top: 307px;
+    left: 22px;
+    z-index: 2;
+}
+.text_next_step{
+    position: absolute;
+    margin: 0px;
+    top: 314px;
+    left: 165px;
+    z-index: 2;
+    font-size: 12px;
+    color: rgb(255, 255, 255);
+}

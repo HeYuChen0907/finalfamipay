@@ -1,0 +1,227 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    position: relative;
+    width:375px;
+    height: 812px;
+    z-index: 1;
+    border: 1px solid rgb(211, 211, 211);
+}
+.return{
+    position: absolute;
+    top: 50px;
+    left: 22px;
+    z-index: 2;
+}
+.scanning{
+    position: absolute;
+    top: 45px;
+    left: 315px;
+    z-index: 2;
+}
+.store-1{
+    position: absolute;
+    top: 270px;
+    left: 85px;
+    z-index: 2;
+    font-size: 10pt;
+    color: rgb(6, 151, 219);
+}
+.Mygoods{
+    position: absolute;
+    top: 270px;
+    left: 255px;
+    z-index: 2;
+    font-size: 10pt;
+    color: rgb(181, 181, 181);
+}
+.Transfer_amount{
+    position: absolute;
+    top: 350px;
+    left: 85px;
+    z-index: 2;
+    font-size: 10pt;
+    color: rgb(6, 151, 219);
+}
+.fami{
+    position: absolute;
+    margin: 10px;
+    top: 40px;
+    left: 140px;
+    z-index: 2;
+    font-size: 18px;
+    color: rgb(102, 102, 102);
+}
+.black_tea{
+    position: absolute;
+    top: 330px;
+    left: 180px;
+    z-index: 2;
+    font-size: 12pt;
+    color: rgb(6, 151, 219);
+}
+.water_1{
+    position: absolute;
+    top: 490px;
+    left: 180px;
+    z-index: 2;
+    font-size: 12pt;
+    color: rgb(6, 151, 219);
+}
+.Café{
+    position: absolute;
+    top: 650px;
+    left: 180px;
+    z-index: 2;
+    font-size: 12pt;
+    color: rgb(6, 151, 219);
+}
+
+.text{
+    position: absolute;
+    top: 355px;
+    left: 180px;
+    z-index: 2;
+    font-size: 6pt;
+    color: rgb(134, 134, 134);
+}
+.text_1{
+    position: absolute;
+    top: 520px;
+    left: 180px;
+    z-index: 2;
+    font-size: 6pt;
+    color: rgb(134, 134, 134);
+}
+.text_2{
+    position: absolute;
+    top: 680px;
+    left: 180px;
+    z-index: 2;
+    font-size: 6pt;
+    color: rgb(134, 134, 134);
+}
+.points_3500{
+    position: absolute;
+    top: 430px;
+    left: 200px;
+    z-index: 2;
+    font-size: 12pt;
+    color: rgb(134, 134, 134);
+}
+.points_1500{
+    position: absolute;
+    top: 593px;
+    left: 200px;
+    z-index: 2;
+    font-size: 12pt;
+    color: rgb(134, 134, 134);
+}
+.points_3500_1{
+    position: absolute;
+    top: 755px;
+    left: 200px;
+    z-index: 2;
+    font-size: 12pt;
+    color: rgb(134, 134, 134);
+}
+
+.p-1{
+    position: absolute;
+    top: 435px;
+    left: 180px;
+    z-index: 2;
+}
+.p-2{
+    position: absolute;
+    top: 598px;
+    left: 180px;
+    z-index: 3;
+}
+.p-3{
+    position: absolute;
+    top: 759px;
+    left: 180px;
+    z-index: 3;
+}
+.exchange-1{
+    position: absolute;
+    top: 433px;
+    left: 300px;
+    z-index: 3;
+}
+.exchange-2{
+    position: absolute;
+    top: 595px;
+    left: 300px;
+    z-index: 3;
+}
+.exchange-3{
+    position: absolute;
+    top: 757px;
+    left: 300px;
+    z-index: 3;
+}
+
+.field{
+    position: absolute;
+    top: 18px;
+    left: 22px;
+    z-index: 2;
+}
+.scanning{
+    position: absolute;
+    top: 45px;
+    left:315px;
+    z-index: 2;
+}
+.return{
+    position: absolute;
+    top: 52px;
+    left: 20px;
+    z-index: 2;
+}
+.Chocolate{
+    position: absolute;
+    top: 85px;
+    left: 0px;
+    z-index: 2;
+}
+.Line-1{
+    position: absolute;
+    top: 295px;
+    left: 0px;
+    z-index: 2;
+}
+.Line-2{
+    position: absolute;
+    top: 295px;
+    left: 195px;
+    z-index: 2;
+}
+.blacktea{
+    position: absolute;
+    top: 320px;
+    left: 20px;
+    z-index: 2;
+}
+.water{
+    position: absolute;
+    top: 480px;
+    left: 20px;
+    z-index: 2;
+}
+.cafe{
+    position: absolute;
+    top: 640px;
+    left: 20px;
+    z-index: 2;
+}
+.Fami{
+    position: absolute;
+    top: 50px;
+    left: 150px;
+    z-index: 2;
+}

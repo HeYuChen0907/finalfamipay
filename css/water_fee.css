@@ -1,0 +1,183 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    position: relative;
+    width:375px;
+    height: 812px;
+    z-index: 1;
+    border: 1px solid rgb(211, 211, 211);
+}
+.field_dark{
+    position: absolute;
+    top: 18px;
+    left: 22px;
+    z-index: 2;
+}
+.return{
+    position: absolute;
+    margin: 0px;
+    top: 50px;
+    left: 22px;
+    z-index: 2;
+}
+.water_fee{
+    position: absolute;
+    margin: 10px;
+    top: 40px;
+    left: 140px;
+    z-index: 2;
+    font-size: 18px;
+    color: rgb(102, 102, 102);
+}
+.scan_dark{
+    position: absolute;
+    top: 45px;
+    left: 315px;
+    z-index: 2;
+}
+.bt_taiwan_water_company{
+        position: absolute;
+        margin: 0px;
+        width: auto;
+        height: auto;
+        top: 130px;
+        left: 55px;
+        z-index: 2;
+}
+.bt_taipei_water_supply_office{
+        position: absolute;
+        margin: 0px;
+        width: auto;
+        height: auto;
+        top: 130px;
+        left: 200px;
+        z-index: 2;
+}
+.water_fee_affiliated_business_office{
+    position: absolute;
+    margin: 0px;
+    top: 100px;
+    left: 22px;
+    z-index: 2;
+    color: rgb(6, 151, 219);
+    font-size: 14px;
+    font-weight: bold;
+}
+.taiwan_water_company{
+    position: absolute;
+    margin: 0px;
+    top: 190px;
+    left: 70px;
+    z-index: 2;
+    color: rgb(134, 134, 134);
+    font-size: 12px;
+}
+.taipei_water_supply_office{
+    position: absolute;
+    margin: 0px;
+    top: 190px;
+    left: 210px;
+    z-index: 2;
+    color: rgb(134, 134, 134);
+    font-size: 12px;
+}
+.enter_water_number{
+    position: absolute;
+    margin: 0px;
+    top: 230px;
+    left: 22px;
+    z-index: 2;
+    color: rgb(6, 151, 219);
+    font-size: 14px;
+    font-weight: bold;
+}
+.field_rectangle_middle{
+    position: absolute;
+    margin: 0px;
+    top: 260px;
+    left: 22px;
+    z-index: 2;
+}
+.field_rectangle_longest{
+    position: absolute;
+    margin: 0px;
+    top: 260px;
+    left: 95px;
+    z-index: 2;
+}
+.field_rectangle_shortest{
+    position: absolute;
+    margin: 0px;
+    top: 260px;
+    left: 315px;
+    z-index: 2;
+}
+.example{
+    position: absolute;
+    margin: 0px;
+    top: 305px;
+    left: 22px;
+    z-index: 2;
+    color: rgb(134, 134, 134);
+    font-size: 12px;
+}
+.field_rectangle_short{
+    position: absolute;
+    margin: 0px;
+    top: 345px;
+    left: 22px;
+    z-index: 2;
+}
+.binding_information{
+    position: absolute;
+    margin: 0px;
+    top: 348px;
+    left: 55px;
+    z-index: 3;
+    color: rgb(134, 134, 134);
+    font-size: 12px;
+}
+.enter_the_water_number_account_name{
+    position: absolute;
+    margin: 0px;
+    top: 385px;
+    left: 22px;
+    z-index: 2;
+    color: rgb(6, 151, 219);
+    font-size: 14px;
+    font-weight: bold;
+}
+.field_rectangle{
+    position: absolute;
+    margin: 0px;
+    top: 415px;
+    left: 22px;
+    z-index: 2;
+}
+.please_enter_your_account_name{
+    position: absolute;
+    margin: 0px;
+    top: 422px;
+    left: 35px;
+    z-index: 2;
+    color: rgb(134, 134, 134);
+    font-size: 12px;
+}
+.bt_gradient{
+    position: absolute;
+    margin: 0px;
+    top: 474px;
+    left: 22px;
+    z-index: 2;
+}
+.text_next_step{
+    position: absolute;
+    margin: 0px;
+    top: 482px;
+    left: 165px;
+    z-index: 2;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+}

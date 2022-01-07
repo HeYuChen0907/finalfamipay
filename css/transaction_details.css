@@ -1,0 +1,403 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    position: relative;
+    width:375px;
+    height: 812px;
+    z-index: 1;
+    border: 1px solid rgba(211, 211, 211, 0.351);
+}
+.transaction_details{
+    position: absolute;
+    margin: 10px;
+    top: 40px;
+    left: 140px;
+    z-index: 2;
+    font-size: 18px;
+    color: rgb(102, 102, 102);
+}
+.Yongkang-Store{
+    position: absolute;
+    top: 170px;
+    left: 20px;
+    z-index: 4;
+    font-size: 12pt;
+    color: rgb(102, 102, 102);
+}
+.day-1128{
+    position: absolute;
+    top: 194px;
+    left: 23px;
+    z-index: 4;
+    font-size: 10pt;
+    color: rgb(164, 164, 164);
+}
+.Yongkang-Bridge-Store{
+    position: absolute;
+    top: 250px;
+    left: 20px;
+    z-index: 4;
+    font-size: 12pt;
+    color: rgb(102, 102, 102);
+}
+.day-1126{
+    position: absolute;
+    top: 273px;
+    left: 23px;
+    z-index: 4;
+    font-size: 10pt;
+    color: rgb(164, 164, 164);
+}
+.Yongkang-Zhongzheng-Storee{
+    position: absolute;
+    top: 330px;
+    left: 20px;
+    z-index: 4;
+    font-size: 12pt;
+    color: rgb(102, 102, 102);
+}
+.day-1122{
+    position: absolute;
+    top: 354px;
+    left: 23px;
+    z-index: 4;
+    font-size: 10pt;
+    color: rgb(164, 164, 164);
+}
+.Yongkang-Store-1{
+    position: absolute;
+    top: 410px;
+    left: 20px;
+    z-index: 4;
+    font-size: 12pt;
+    color: rgb(102, 102, 102);
+}
+.day-1120{
+    position: absolute;
+    top: 435px;
+    left: 23px;
+    z-index: 4;
+    font-size: 10pt;
+    color: rgb(164, 164, 164);
+}
+.Yongkang-Store-2{
+    position: absolute;
+    top: 490px;
+    left: 20px;
+    z-index: 4;
+    font-size: 12pt;
+    color: rgb(102, 102, 102);
+}
+.day-1119{
+    position: absolute;
+    top: 514px;
+    left: 23px;
+    z-index: 4;
+    font-size: 10pt;
+    color: rgb(164, 164, 164);
+}
+.Yongkang-Bridge-Store-1{
+    position: absolute;
+    top: 570px;
+    left: 20px;
+    z-index: 4;
+    font-size: 12pt;
+    color: rgb(102, 102, 102);
+}
+.day-1118{
+    position: absolute;
+    top: 593px;
+    left: 23px;
+    z-index: 4;
+    font-size: 10pt;
+    color: rgb(164, 164, 164);
+}
+.Yongkang-Bridge-Store-2{
+    position: absolute;
+    top: 650px;
+    left: 20px;
+    z-index: 4;
+    font-size: 12pt;
+    color: rgb(102, 102, 102);
+}
+.day-1115{
+    position: absolute;
+    top: 673px;
+    left: 23px;
+    z-index: 4;
+    font-size: 10pt;
+    color: rgb(164, 164, 164);
+}
+.Yongkang-Bridge-Store-3{
+    position: absolute;
+    top: 730px;
+    left: 20px;
+    z-index: 4;
+    font-size: 12pt;
+    color: rgb(102, 102, 102);
+}
+.day-1113{
+    position: absolute;
+    top: 593px;
+    left: 23px;
+    z-index: 4;
+    font-size: 10pt;
+    color: rgb(164, 164, 164);
+}
+.Spending-thismonth{
+    position: absolute;
+    top: 770px;
+    left: 20px;
+    z-index: 5;
+    font-size: 15pt;
+    color: rgb(255, 255, 255);
+}
+.money-icon-1{
+    position: absolute;
+    top: 181px;
+    left: 275px;
+    z-index: 5;
+}
+.money-icon-2{
+    position: absolute;
+    top: 259px;
+    left: 275px;
+    z-index: 5;
+}
+.money-icon-3{
+    position: absolute;
+    top: 340px;
+    left: 275px;
+    z-index: 5;
+}
+.money-icon-4{
+    position: absolute;
+    top: 421px;
+    left: 275px;
+    z-index: 5;
+}
+.money-icon-5{
+    position: absolute;
+    top: 501px;
+    left: 275px;
+    z-index: 5;
+}
+.money-icon-6{
+    position: absolute;
+    top: 579px;
+    left: 275px;
+    z-index: 5;
+}
+.money-icon-7{
+    position: absolute;
+    top: 661px;
+    left: 275px;
+    z-index: 5;
+}
+.money-icon-8{
+    position: absolute;
+    top: 741px;
+    left: 275px;
+    z-index: 4;
+}
+.money-icon-9{
+    position: absolute;
+    top: 775px;
+    left: 275px;
+    z-index: 5;
+}
+.money-190{
+    position: absolute;
+    top: 175px;
+    left: 300px;
+    z-index: 4;
+    font-size: 18pt;
+    color: rgb(164, 164, 164);
+}
+.money-132{
+    position: absolute;
+    top: 253px;
+    left: 300px;
+    z-index: 4;
+    font-size: 18pt;
+    color: rgb(164, 164, 164);
+}
+.money-86{
+    position: absolute;
+    top: 336px;
+    left: 300px;
+    z-index: 4;
+    font-size: 18pt;
+    color: rgb(164, 164, 164);
+}
+.money-67{
+    position: absolute;
+    top: 416px;
+    left: 300px;
+    z-index: 4;
+    font-size: 18pt;
+    color: rgb(164, 164, 164);
+}
+.money-100{
+    position: absolute;
+    top: 494px;
+    left: 300px;
+    z-index: 4;
+    font-size: 18pt;
+    color: rgb(164, 164, 164);
+}
+.money-120{
+    position: absolute;
+    top: 574px;
+    left: 300px;
+    z-index: 4;
+    font-size: 18pt;
+    color: rgb(164, 164, 164);
+}
+.money-140{
+    position: absolute;
+    top: 654px;
+    left: 300px;
+    z-index: 4;
+    font-size: 18pt;
+    color: rgb(164, 164, 164);
+}
+.money-150{
+    position: absolute;
+    top: 734px;
+    left: 300px;
+    z-index: 1;
+    font-size: 18pt;
+    color: rgb(164, 164, 164);
+}
+.money-735{
+    position: absolute;
+    top: 768px;
+    left: 300px;
+    z-index: 5;
+    font-size: 20pt;
+    color: rgb(249, 249, 249);
+}
+.Expenses-record{
+    position: absolute;
+    top: 95px;
+    left: 35px;
+    z-index: 4;
+    font-size: 10pt;
+    color: rgb(6, 151, 219);
+}
+.Points-record{
+    position: absolute;
+    top: 95px;
+    left: 158px;
+    z-index: 4;
+    font-size: 10pt;
+    color: rgb(164, 164, 164);
+}
+.Wallet-record{
+    position: absolute;
+    top: 95px;
+    left: 280px;
+    z-index: 4;
+    font-size: 10pt;
+    color: rgb(164, 164, 164);
+}
+
+.scanning{
+    position: absolute;
+    top: 55px;
+    left:315px;
+    z-index: 2;
+}
+.return{
+    position: absolute;
+    top: 61px;
+    left: 20px;
+    z-index: 2;
+}
+.field{
+    position: absolute;
+    top: 18px;
+    left: 22px;
+    z-index: 2;
+}
+.Consumption_record{
+    position: absolute;
+    top: 30px;
+    left: 10px;
+    z-index: 3;
+}
+.Consumption_record{
+    position: absolute;
+    top: 115px;
+    left: 0px;
+    z-index: 3;
+}
+.Points_record{
+    position: absolute;
+    top: 115px;
+    left: 120px;
+    z-index: 3;
+}
+.Wallet_record{
+    position: absolute;
+    top: 115px;
+    left: 240px;
+    z-index: 3;
+}
+.List_1{
+    position: absolute;
+    top: 150px;
+    left: 0px;
+    z-index: 3;
+}
+.List_2{
+    position: absolute;
+    top: 230px;
+    left: 0px;
+    z-index: 3;
+}
+.List_3{
+    position: absolute;
+    top: 310px;
+    left: 0px;
+    z-index: 3;
+}
+.List_4{
+    position: absolute;
+    top: 390px;
+    left: 0px;
+    z-index: 3;
+}
+.List_5{
+    position: absolute;
+    top: 470px;
+    left: 0px;
+    z-index: 3;
+}
+.List_6{
+    position: absolute;
+    top: 550px;
+    left: 0px;
+    z-index: 3;
+}
+.List_7{
+    position: absolute;
+    top: 630px;
+    left: 0px;
+    z-index: 3;
+}
+.List_8{
+    position: absolute;
+    top: 710px;
+    left: 0px;
+    z-index: 3;
+}
+.Spending_month{
+    position: absolute;
+    top: 753px;
+    left: 0px;
+    z-index: 4;  
+}

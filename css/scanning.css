@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.background{
+    position: relative;
+    width:375px;
+    height: 812px;
+    z-index: 1;
+    border: 1px solid rgb(211, 211, 211);
+}
+
+.close{
+    position: absolute;
+    top: 45px;
+    left: 315px;
+    z-index: 2;
+}
+
+.enter{
+    position: absolute;
+    top: 750px;
+    left: 280px;
+    z-index: 2;
+    color: white;
+}
